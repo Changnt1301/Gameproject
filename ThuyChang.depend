@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1715700215 source:d:\thuychang\main.cpp
+	"button.h"
+	"variables.h"
+	"constant.h"
+	"function.h"
+
+1715702964 source:d:\thuychang\time.cpp
+	"time.h"
+
+1715658930 d:\thuychang\time.h
+	<SDL.h>
+
+1715703834 source:d:\thuychang\texture.cpp
+	"texture.h"
+	"variables.h"
+
+1713370068 d:\thuychang\texture.h
+	<iostream>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<vector>
+
+1712739814 c:\users\bigtech\downloads\sdl2_image-devel-2.8.2-mingw\sdl2_image-2.8.2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1712739782 c:\users\bigtech\downloads\sdl2_ttf-devel-2.22.0-mingw\sdl2_ttf-2.22.0\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1712739768 c:\users\bigtech\downloads\sdl2_mixer-devel-2.8.0-mingw\sdl2_mixer-2.8.0\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1715654966 d:\thuychang\variables.h
+	"texture.h"
+	"constant.h"
+	"button.h"
+
+1713348618 d:\thuychang\constant.h
+	<iostream>
+
+1715712319 d:\thuychang\button.h
+	<SDL.h>
+
+1715703479 source:d:\thuychang\variables.cpp
+	"variables.h"
+	<iostream>
+
+1715703794 source:d:\thuychang\button.cpp
+	"variables.h"
+	"constant.h"
+	"button.h"
+	"function.h"
+
+1715681940 d:\thuychang\function.h
+	"time.h"
+	<SDL.h>
+
+1715713203 source:d:\thuychang\function.cpp
+	"texture.h"
+	"variables.h"
+	"constant.h"
+	"button.h"
+	"function.h"
+	"time.h"
+	<sstream>
+	<fstream>
+

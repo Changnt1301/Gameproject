@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="time.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="302" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="constant.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="131" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="time.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="951" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="function.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15356" topLine="34" />
+		</Cursor>
+		<Folding>
+			<Collapse line="16" />
+			<Collapse line="74" />
+			<Collapse line="84" />
+			<Collapse line="167" />
+			<Collapse line="177" />
+			<Collapse line="193" />
+			<Collapse line="205" />
+			<Collapse line="218" />
+			<Collapse line="242" />
+			<Collapse line="250" />
+			<Collapse line="264" />
+			<Collapse line="272" />
+			<Collapse line="280" />
+			<Collapse line="336" />
+			<Collapse line="419" />
+			<Collapse line="448" />
+			<Collapse line="473" />
+			<Collapse line="503" />
+			<Collapse line="515" />
+			<Collapse line="524" />
+			<Collapse line="541" />
+			<Collapse line="556" />
+			<Collapse line="569" />
+			<Collapse line="581" />
+			<Collapse line="601" />
+			<Collapse line="623" />
+			<Collapse line="640" />
+			<Collapse line="651" />
+			<Collapse line="687" />
+		</Folding>
+	</File>
+	<File name="button.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="114" topLine="134" />
+		</Cursor>
+	</File>
+	<File name="variables.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="812" topLine="45" />
+		</Cursor>
+	</File>
+	<File name="variables.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="792" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="texture.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2207" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="function.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="387" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="texture.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="630" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="button.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="375" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="177" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
